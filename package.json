@@ -1,17 +1,21 @@
 {
   "name": "giftshop-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "A simple JSON-server API hosted on Render",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "json-server --watch db.json --port 5000",
+    "start": "node server.js",
+    "dev": "json-server --watch db.json --port 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Your Name",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^0.17.4",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
