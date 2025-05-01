@@ -1,0 +1,125 @@
+{
+    "gifts": [
+      {
+        "id": 1,
+        "title": "Baby Shower Gift Set",
+        "description": "A beautiful gift set for a baby shower, including a blanket, onesies, and toys.",
+        "price": 2500,
+        "occasion": "baby-shower",
+        "image": "https://i.etsystatic.com/34008922/r/il/69b2b8/3610369570/il_570xN.3610369570_fs6m.jpg",
+        "category": "Baby Shower",
+        "brand": "TinyTots KE",
+        "rating": 4.7,
+        "inStock": false
+      },
+      {
+        "id": 2,
+        "title": "Graduation Cap & Tassel",
+        "description": "A classic graduation cap with a tassel, perfect for celebrating your graduate's achievement.",
+        "price": 1500,
+        "occasion": "graduation",
+        "image": "https://i.etsystatic.com/7327165/r/il/48dd26/4790127842/il_570xN.4790127842_ts31.jpg",
+        "category": "Graduation",
+        "brand": "SmartGrad Gifts",
+        "rating": 4.5,
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "title": "Anniversary Wine Set",
+        "description": "A premium wine set for couples celebrating their anniversary.",
+        "price": 4500,
+        "occasion": "anniversary",
+        "image": "https://www.purpink.co.ke/cdn/shop/files/vals-hamp_1800x1800.jpg?v=1738132199",
+        "category": "Anniversary",
+        "brand": "The Present Co.",
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "title": "Birthday Cake & Candles",
+        "description": "A delicious birthday cake with candles, perfect for birthday celebrations.",
+        "price": 1800,
+        "occasion": "birthday",
+        "image": "https://i.etsystatic.com/28772991/r/il/5c1fed/3886268354/il_570xN.3886268354_3m6s.jpg",
+        "category": "Birthday",
+        "brand": "BakeHouse Kenya",
+        "rating": 4.6,
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "title": "Christmas Tree Decoration Set",
+        "description": "A beautiful Christmas tree decoration set with ornaments and a star for the top.",
+        "price": 3500,
+        "occasion": "christmas",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-mk_e9Fdb5_bZ2CKImWGli41B18mWLH-eZw&s",
+        "category": "Christmas",
+        "brand": "FestiveSpark",
+        "rating": 4.8,
+        "inStock": false
+      },
+      {
+        "id": 6,
+        "title": "Personalized Graduation Mug",
+        "description": "A personalized mug with the graduate's name and graduation year.",
+        "price": 1200,
+        "occasion": "graduation",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqjxNaGHrRKo7g-aOMOHaacd6JIrERsLuFA&s",
+        "category": "Graduation",
+        "brand": "GradVibes Co.",
+        "rating": 4.3,
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "title": "Baby Shower Diaper Bag",
+        "description": "A stylish and practical diaper bag, perfect for new parents.",
+        "price": 4000,
+        "occasion": "baby-shower",
+        "image": "https://i.etsystatic.com/5803653/r/il/6c00ad/3581623900/il_570xN.3581623900_669e.jpg",
+        "category": "Baby Shower",
+        "brand": "MommyEssentials KE",
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 8,
+        "title": "Anniversary Heart-Shaped Necklace",
+        "description": "A stunning heart-shaped necklace to celebrate love and anniversaries.",
+        "price": 6000,
+        "occasion": "anniversary",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-J_AKBSiX1tzXx1hxxtMJrHTfgJVnhTjvXg&s",
+        "category": "Anniversary",
+        "brand": "LuxeLove Jewelry",
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 9,
+        "title": "Christmas Gift Box",
+        "description": "A beautifully wrapped Christmas gift box filled with treats and surprises.",
+        "price": 5000,
+        "occasion": "christmas",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4aZ5OD9rTRX5mAZcu3yETrYYEm6ECCFf_oA&s",
+        "category": "Christmas",
+        "brand": "FestiveSpark",
+        "rating": 4.6,
+        "inStock": true
+      },
+      {
+        "id": 10,
+        "title": "Birthday Jewelry Set",
+        "description": "A lovely jewelry set including a necklace, earrings, and bracelet for a birthday gift.",
+        "price": 3500,
+        "occasion": "birthday",
+        "image": "https://i.etsystatic.com/39126534/r/il/97d61e/6712715742/il_300x300.6712715742_73zy.jpg",
+        "category": "Birthday",
+        "brand": "ShineBright KE",
+        "rating": 4.8,
+        "inStock": false
+      }
+    ]
+  }
+  
